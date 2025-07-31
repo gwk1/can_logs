@@ -1,6 +1,10 @@
 (1753981217.294881) can0 7E4#3000000000000000
-(1753981217.304629) can0 7EC#21000000007B0000
-(1753981217.314646) can0 7EC#22003400000BB100      0BB1 = Accumulated normal charging energy 2993kWh
+(1753981217.304629) can0 7EC#21000000007B0000        7B = Number of standard charging (123)
+
+(1753981217.314646) can0 7EC#22003400000BB100      0034 = Number of quick charging
+                                                   0BB1 = Accumulated normal charging energy 2993kWh
+
+
 (1753981217.324623) can0 7EC#230006D03461AAAA      06D0 = Accumulated quick charging energy 1744 kWh
 
 
