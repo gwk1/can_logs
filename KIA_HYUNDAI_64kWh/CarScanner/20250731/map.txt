@@ -6,7 +6,7 @@
 (1753981215.162461) can0 7EC#103E620101FFF7E7
 (1753981215.162837) can0 7E4#3000000000000000
 (1753981215.169610) can0 7EC#21FFA50000000007
-(1753981215.179478) can0 7EC#2200000F511A1718     5F1 = Battery DC Voltage
+(1753981215.179478) can0 7EC#2200000F511A1718     F51 = Battery DC Voltage*10 ? 392.1
                                                   1A = Battery max temp 26
                                                   17 = BAttery min temp 23
                                                   18 = Module 1 temp 24
