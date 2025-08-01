@@ -15,7 +15,8 @@
                                                   19 = Module 4 temp 25
 
 (1753981215.199483) can0 7EC#2442C73800008A00     42 = Min Cell Volt No#
-                                                  C7 = Min Cell Volt 20mV steps
+                                                  C7 = Min Cell Volt 20mV steps = 3.98
+                                                  38 = 56
                                                   
                                                   8A = 138 Aux battery voltage *10
 
@@ -23,13 +24,15 @@
                                                   0323BB = Cumulative dicharge current (x10) Ah 20575,5
 
 (1753981215.219474) can0 7EC#2600012B2200011D     012B22 = Cumulative energy Charged
+                                                  011D = Cumulative energy discharged HIGH
                                                    
-(1753981215.229524) can0 7EC#274000C76BBF0119     00C76BBF = Battery Work Time Total (s)
+(1753981215.229524) can0 7EC#274000C76BBF0119     40 = Cumulative Energy discharged LOW
+                                                  00C76BBF = Battery Work Time Total (s)
                                                   01 = IGN state?
                                                   19 = inverterVoltageFrameHigh
 
 (1753981215.239516) can0 7EC#28997FFF7FFF01E9     99 = inverterVoltageFrameLow
-                                                  7FFF = Drive motor 1 speed (32767)   
+                                                  7FFF = Drive motor 1 speed (32767)   (which one?)
                                                   01E9 = Isolation Resistance (489 kOhm)
 
 #########################################################
