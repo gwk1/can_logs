@@ -13,10 +13,10 @@
 (1753981215.189482) can0 7EC#23171719000019C8     17 = Module 2 temp 23
                                                   17 = Module 3 temp 23
                                                   19 = Module 4 temp 25
-
-(1753981215.199483) can0 7EC#2442C73800008A00     42 = Min Cell Volt No#
-                                                  C7 = Min Cell Volt 20mV steps = 3.98
-                                                  38 = 56
+                                                  C8 = Max Cell Volt *20mV
+(1753981215.199483) can0 7EC#2442C73800008A00     42 = Max Cell Volt No#
+                                                  C7 = Min Cell Volt *20mV = 3.98
+                                                  38 = Min Cell Volt No#
                                                   
                                                   8A = 138 Aux battery voltage *10
 
