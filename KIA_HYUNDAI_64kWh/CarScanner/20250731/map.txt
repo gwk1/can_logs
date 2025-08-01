@@ -16,8 +16,10 @@
 
 (1753981215.199483) can0 7EC#2442C73800008A00     42 = Min Cell Volt No#
                                                   C7 = Min Cell Volt 20mV steps
-(1753981215.209523) can0 7EC#25033514000323BB
-(1753981215.219474) can0 7EC#2600012B2200011D
+(1753981215.209523) can0 7EC#25033514000323BB     033414 = Cumulative charge current (x10) Ah 21019,6
+                                                  0323BB = Cumulative dicharge current (x10) Ah 20575,5
+(1753981215.219474) can0 7EC#2600012B2200011D     012B22 = Cumulative energy Charged
+                                                   
 (1753981215.229524) can0 7EC#274000C76BBF0119     00C76BBF = Battery Work Time Total (s)
 
 (1753981215.239516) can0 7EC#28997FFF7FFF01E9     7FFF = Drive motor 1 speed (32767)   
